@@ -1,0 +1,11 @@
+{
+    "name": "khwabscript/foontasy-views",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "khwabscript",
+            "email": "mail@foontasy.com"
+        }
+    ],
+    "require": {}
+}

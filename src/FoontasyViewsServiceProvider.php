@@ -1,5 +1,7 @@
 <?php
 
+namespace Foontasy;
+
 use Illuminate\Support\ServiceProvider;
 
 class FoontasyViewsServiceProvider

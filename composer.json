@@ -7,5 +7,10 @@
             "email": "mail@foontasy.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Foontasy\\": "src/"
+        }
+    },
 }

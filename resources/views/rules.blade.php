@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', __('play/views.' . 'Rules'))
+@section('title', __('play/views.' . 'J1 Rules'))
 
 @section('content')
 	<div class="lg:absolute lg:top-4.5 lg:right-2.5 ml-2 md:my-4 lg:m-0">
